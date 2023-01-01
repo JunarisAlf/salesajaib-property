@@ -16,7 +16,10 @@
 	
 	<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Rumah Mewah Cluster Abinaya Residence - ARSY</title>
-    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    {{-- <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+     --}}
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/all.min.css" integrity="sha512-f2MWjotY+JCWDlE0+QAshlykvZUtIm35A6RHwfYZPdxKgLJpL8B+VVxjpHJwZDsZaWdyHVhlIHoblFYGkmrbhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/js/regular.min.js" integrity="sha512-E74NuDho8iKjlJhIjDitg1IhmQrmYmN/sbYSOjpaebERmWbQ3kbTvPM2PHetHNvoUTLc0cqtERjMUt4qfIfZNw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<meta name="description" content="Rumah Mewah Cluster Abinaya Residence Classic Modern Pekanbaru, hunian terbaik untuk keluarga Anda, lokasi strategis dan fasilitas lengkap">
 	<link rel="canonical" href="https://agencyrealestatesyariah.com/">
 	<meta property="og:locale" content="en_US">

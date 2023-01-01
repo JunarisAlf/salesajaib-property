@@ -83,7 +83,10 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-0MS3P7XDJ5');
 </script>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+{{-- <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script> --}}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/all.min.css" integrity="sha512-f2MWjotY+JCWDlE0+QAshlykvZUtIm35A6RHwfYZPdxKgLJpL8B+VVxjpHJwZDsZaWdyHVhlIHoblFYGkmrbhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/js/regular.min.js" integrity="sha512-E74NuDho8iKjlJhIjDitg1IhmQrmYmN/sbYSOjpaebERmWbQ3kbTvPM2PHetHNvoUTLc0cqtERjMUt4qfIfZNw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 <!-- End Global site tag (gtag.js) - Google Ads (AdWords) & Analytics -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
 <body class="home page-template page-template-elementor_canvas page page-id-2 theme-landingpress-wp woocommerce-js page-landingpress-full-hf header-active footer-active elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-2 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop">
