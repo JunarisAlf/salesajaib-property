@@ -17,4 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/{sales_id}/{property_slug}', [PropertyController::class, 'landingpage']);
+
+Route::get('/{sales}/{property:slug}', [PropertyController::class, 'landingpage'])->withoutScopedBindings();
