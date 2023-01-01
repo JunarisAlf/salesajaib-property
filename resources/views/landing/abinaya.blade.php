@@ -580,7 +580,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="elementor-element elementor-element-6b7bff10 elementor-align-center elementor-widget elementor-widget-button_whatsapp animated slideInDown" data-id="6b7bff10" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://api.whatsapp.com/send?phone=6281273858690&amp;text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D8%B1%D8%AD%D9%85%D8%A9%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87%0ASaya%20mau%20info%20lebih%20lanjut%20tentang%20Cluster%20Abinaya%20Residence" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
+			<a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
 				<span class="elementor-button-content-wrapper">
 											<span class="elementor-align-icon-left elementor-button-icon">
 							<img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
@@ -1274,7 +1274,7 @@ arrow_forward_ios
 				<div class="elementor-element elementor-element-71f7c4af elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="71f7c4af" data-element_type="widget" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://api.whatsapp.com/send?phone=6281273858690&amp;text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D8%B1%D8%AD%D9%85%D8%A9%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87%0ASaya%20mau%20tertarik%20dengan%20Abinaya%20Type%2082.%20Boleh%20bertemu%20untuk%20info%20lebih%20lanjut%3F" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow">
+			<a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow">
 				<span class="elementor-button-content-wrapper">
 											<span class="elementor-align-icon-left elementor-button-icon">
 							<img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
@@ -1349,7 +1349,7 @@ arrow_forward_ios
 				<div class="elementor-element elementor-element-6286a7c elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="6286a7c" data-element_type="widget" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://api.whatsapp.com/send?phone=6281273858690&amp;text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D8%B1%D8%AD%D9%85%D8%A9%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%A8%D8%B1%D9%83%D8%A7%D8%AA%D9%87%0ASaya%20mau%20tertarik%20dengan%20Abinaya%20Type%20120.%20Boleh%20bertemu%20untuk%20info%20lebih%20lanjut%3F" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow">
+			<a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow">
 				<span class="elementor-button-content-wrapper">
 											<span class="elementor-align-icon-left elementor-button-icon">
 							<img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
@@ -1384,7 +1384,7 @@ arrow_forward_ios
 				<div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://api.whatsapp.com/send?phone=6281273858690&amp;text=Halo%2C%20saya%20tertarik%20Cluster%20Abinaya%20Residence.%20Mohon%20info%20lebih%20lanjut" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
+			<a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
 				<span class="elementor-button-content-wrapper">
 											<span class="elementor-align-icon-left elementor-button-icon">
 							<img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
