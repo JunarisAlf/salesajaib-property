@@ -735,7 +735,7 @@ leadingZeros: true,
 </div>
 <div class="elementor-element elementor-element-7dc53dfd elementor-widget elementor-widget-text-editor" data-id="7dc53dfd" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<h1>Jon Fendri&nbsp;</h1>						</div>
+<h1>Jon Al Khair&nbsp;</h1>						</div>
 </div>
 <div class="elementor-element elementor-element-5848c167 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="5848c167" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
