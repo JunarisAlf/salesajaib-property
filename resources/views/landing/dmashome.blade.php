@@ -104,7 +104,7 @@ gtag('config', 'G-0MS3P7XDJ5');
 <div class="elementor-element elementor-element-790a064d elementor-widget elementor-widget-text-editor" data-id="790a064d" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <style>/*! elementor - v3.6.1 - 23-03-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Hunian Klasik Modern&nbsp;</strong><strong>di Kota&nbsp;</strong><strong style="color: var(--wp--preset--color--foreground); font-family: var(--wp--preset--font-family--poppins); font-size: var(--wp--custom--typography--font-size--heading-one); letter-spacing: -1.1px; background-color: var(--wp--preset--color--background);">Pekanbaru Untuk Keluarga Anda</strong></p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong>Hunian Klasik Modern&nbsp;</strong><strong>di Pusat Kota&nbsp;</strong><strong style="color: var(--wp--preset--color--foreground); font-family: var(--wp--preset--font-family--poppins); font-size: var(--wp--custom--typography--font-size--heading-one); letter-spacing: -1.1px; background-color: var(--wp--preset--color--background);">Pekanbaru</strong></p>						</div>
 </div>
 </div>
 </div>
@@ -117,7 +117,7 @@ gtag('config', 'G-0MS3P7XDJ5');
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-48cb1ae9 elementor-widget elementor-widget-text-editor" data-id="48cb1ae9" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<h3 style="text-align: center;"><strong><span style="color: #000000;">PERSEMBAHAN TERBAIK BAGI ANDA DAN KELUARGA</span></strong></h3><p>D’mas Land Group mempersembahkan <strong>D’Mas Home Pekanbaru</strong>, hunian <strong>Klasik Modern di Pusat Kota Pekanbaru</strong> yang InsyaAllah menjadi Pilihan Tepat untuk Investasi terbaik bagi anda dan Keluarga.</p><p><span lang="IN">Lokasi strategis terletak di Pusat Kota Pekanbaru, <strong>Hanya 2 Km ke RS awal Bros</strong>, Perkantoran Sudirman City Square dan <strong>Pusat² Pemerintahan Kota Pekanbaru</strong> dan Provinsi Riau. Berdekatan dengan Pusat Komersial fan Fasilitas Umum kota Pekanbaru. InsyaAllah Memudahkan Aktifitas Perjalanan dan mendukung Kualitas kehidupan yang baik untuk keluarga Anda.</span></p><p><span lang="IN"><span lang="IN">Berposisi di lokasi yang cukup tinggi sehingga Aman dari Banjir dan<strong> sangat Nyaman untuk Istirahat keluarga Anda.</strong></span></span></p><div><span style="color: #000000;"><span lang="IN"><span lang="IN">&nbsp;</span></span></span></div>						</div>
+<h3 style="text-align: center;"><strong><span style="color: #000000;">HUNIAN NYAMAN MASA DEPAN </span></strong></h3><p>D’mas Group mempersembahkan <strong>D’Mas Home Pekanbaru</strong>, hunian <strong>Klasik Modern di Pusat Kota Pekanbaru</strong> yang InsyaAllah menjadi Pilihan Tepat untuk hunian terbaik bagi anda dan Keluarga.</p><p><span lang="IN">Lokasi strategis terletak di Jl. Teratai/Lumba-Lumba - Harapan Raya, <strong>Hanya 2 Km ke RS awal Bros</strong>, Perkantoran Sudirman City Square dan <strong>Pusat² Pemerintahan Kota Pekanbaru</strong> dan Provinsi Riau. Berdekatan dengan Pusat Komersial fan Fasilitas Umum kota Pekanbaru. InsyaAllah Memudahkan Aktifitas Perjalanan dan mendukung Kualitas kehidupan yang baik untuk keluarga Anda.</span></p><p><span lang="IN"><span lang="IN">Berposisi di lokasi yang cukup tinggi sehingga Aman dari Banjir dan<strong> sangat Nyaman untuk Istirahat keluarga Anda.</strong></span></span></p><div><span style="color: #000000;"><span lang="IN"><span lang="IN">&nbsp;</span></span></span></div>						</div>
 </div>
 </div>
 </div>
@@ -617,7 +617,7 @@ Canopy dan Car Port didesain menyatu dengan tema rumah klasik modern dilengkapi 
 </div>
 <div class="elementor-element elementor-element-58058674 elementor-widget elementor-widget-text-editor" data-id="58058674" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Wujudkan Rumah Impian Keluarga Anda di Pusat Kota Pekanbaru,</p><p>Tunggu Apalagi, Pilih Unit Anda Sekarang Juga.</p><p>Berikan Lingkungan terbaik dan berkualitas Untuk keluarga anda saat ini juga.</p><p>Segera hubungi Marketing Terbaik Kami.</p>						</div>
+<p>Wujudkan Rumah Impian Keluarga Anda di Pusat Kota Pekanbaru,</p><p>Tunggu Apalagi, Pilih Unit Anda Sekarang Juga.</p><p>Berikan Lingkungan terbaik dan berkualitas Untuk keluarga anda saat ini juga.</p><p>Segera hubungi Marketing Kami.</p>						</div>
 </div>
 </div>
 </div>
@@ -735,7 +735,7 @@ leadingZeros: true,
 </div>
 <div class="elementor-element elementor-element-7dc53dfd elementor-widget elementor-widget-text-editor" data-id="7dc53dfd" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<h1>Faisal Al Swadawi&nbsp;</h1>						</div>
+<h1>Jon Fendri&nbsp;</h1>						</div>
 </div>
 <div class="elementor-element elementor-element-5848c167 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="5848c167" data-element_type="widget" data-widget_type="button.default">
 <div class="elementor-widget-container">
