@@ -651,7 +651,7 @@ Canopy dan Car Port didesain menyatu dengan tema rumah klasik modern dilengkapi 
 </div>
 <div class="elementor-element elementor-element-a13e4f9 elementor-widget elementor-widget-text-editor" data-id="a13e4f9" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<p>Dapatkan FREE AJB , Balik Nama dan BPHTB untuk pembelian <span style="color: #990000;"><strong>SAAT INI JUGA</strong></span></p>						</div>
+<p>Dapatkan FREE AJB, Balik Nama dan BPHTB untuk pembelian <span style="color: #990000;"><strong>SAAT INI JUGA</strong></span></p>						</div>
 </div>
 </div>
 </div>
