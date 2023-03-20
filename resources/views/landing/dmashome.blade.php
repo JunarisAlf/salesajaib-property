@@ -488,7 +488,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 <div class="elementor-icon-box-content">
 <h3 class="elementor-icon-box-title">
 <span>
-Kitchen Set					</span>
+Kitchen Set	</span>
 </h3>
 <p class="elementor-icon-box-description">
 Manjakan Istri dengan Kitchen Set terbaik bergaya klasik modern yang akan membuat nyaman baik fungsi maupun keindahannya.					</p>
