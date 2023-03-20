@@ -731,7 +731,7 @@ leadingZeros: true,
 </div>
 <div class="elementor-element elementor-element-5ba8ab17 elementor-widget elementor-widget-image" data-id="5ba8ab17" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<img decoding="async" width="150" height="150" src="{{asset("/dmashome")}}/srgjertiowerjoerj-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">															</div>
+<img decoding="async" width="150" height="150" src="{{asset("/dmashome")}}/bang-jon.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">															</div>
 </div>
 <div class="elementor-element elementor-element-7dc53dfd elementor-widget elementor-widget-text-editor" data-id="7dc53dfd" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
