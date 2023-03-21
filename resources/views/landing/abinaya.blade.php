@@ -1387,7 +1387,16 @@ arrow_forward_ios
                     text-align: center;
                 ">
                     Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis!
-                                    Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
+                
+                </p>
+                <p style="
+                    color: white;
+                    font-family: inherit;
+                    text-align: center;
+                ">
+                  Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
+
+                
                 </p>
 				</div>
 				<div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
