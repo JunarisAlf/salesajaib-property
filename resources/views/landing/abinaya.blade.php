@@ -1387,19 +1387,10 @@ arrow_forward_ios
                     text-align: center;
                     margin-buttom: 5px;
                 ">
-                    Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis!
+                    Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis! Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
                 
                 </p>
-                <p style="
-                    color: white;
-                    font-family: inherit;
-                    text-align: center;
-                    margin-buttom: 5px;
-                ">
-                  Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
-
-                
-                </p>
+               
                 </div>
                    
 				</div>
