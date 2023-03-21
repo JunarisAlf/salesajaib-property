@@ -1381,11 +1381,14 @@ arrow_forward_ios
 			<h3 class="elementor-heading-title elementor-size-default">Sudah yakin ingin memiliki Abinaya Residence?</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-6c60554d elementor-widget elementor-widget-text-editor" data-id="6c60554d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-                    <p>
-                        Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis!Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
-                    </p>
-                </div>
+                    <p style="
+                    color: white;
+                    font-family: inherit;
+                    text-align: center;
+                ">
+                    Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis!
+                                    Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
+                </p>
 				</div>
 				<div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
