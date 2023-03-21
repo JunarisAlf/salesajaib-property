@@ -1380,6 +1380,7 @@ arrow_forward_ios
 				<div class="elementor-widget-container">
 			<h3 class="elementor-heading-title elementor-size-default">Sudah yakin ingin memiliki Abinaya Residence?</h3>		</div>
 				</div>
+
 				<div style="display: block; font-family: 'Lora', sans-serif; margin: auto; margin-bottom: 20px;">
                     <p style="
                     color: white;
@@ -1392,22 +1393,24 @@ arrow_forward_ios
                 </p>
                
                 </div>
+                <div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
+                    <div class="elementor-widget-container">
+                        <div class="elementor-button-wrapper">
+                <a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
+                    <span class="elementor-button-content-wrapper">
+                                                <span class="elementor-align-icon-left elementor-button-icon">
+                                <img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
+                            </span>
+                                            <span class="elementor-button-text">Hubungi Kami</span>
+                    </span>
+                </a>
+            </div>
+                    </div>
+                    </div>
                    
 				</div>
-				<div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="{{$form_link}}" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow">
-				<span class="elementor-button-content-wrapper">
-											<span class="elementor-align-icon-left elementor-button-icon">
-							<img decoding="async" src="{{asset('abinaya')}}/whatsapp.svg" alt="" height="15px" width="15px">
-						</span>
-										<span class="elementor-button-text">Hubungi Kami</span>
-				</span>
-			</a>
-		</div>
-				</div>
-				</div>
+
+				
 					</div>
 		</div>
 							</div>
