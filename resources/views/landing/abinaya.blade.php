@@ -1382,7 +1382,10 @@ arrow_forward_ios
 				</div>
 				<div class="elementor-element elementor-element-6c60554d elementor-widget elementor-widget-text-editor" data-id="6c60554d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Nilai Property di <a href="https://www.pekanbaru.go.id/">Kota Pekanbaru</a> semakin hari semakin meningkat drastis!</p><p>Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.</p>						</div>
+                    <p>
+                        Nilai Property di Kota Pekanbaru semakin hari semakin meningkat drastis!Segera Amankan Investasi Anda. Selalu berikan yang Terbaik untuk keluarga tercinta.
+                    </p>
+                </div>
 				</div>
 				<div class="elementor-element elementor-element-07107c2 elementor-align-center elementor-widget elementor-widget-button_whatsapp" data-id="07107c2" data-element_type="widget" data-widget_type="button_whatsapp.default">
 				<div class="elementor-widget-container">
